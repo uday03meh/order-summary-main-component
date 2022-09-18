@@ -18,7 +18,7 @@
 
 ### What I learned
 
-- inheritance in CSS
+- Inheritance in CSS
 - Responsive Web Design
 - Active States in CSS
 
