@@ -91,3 +91,7 @@ a:hover {
 .cancel-order:hover {
     color: hsl(223, 47%, 23%);
 }
+
+.attribution {
+    font-size: 15px;
+}
