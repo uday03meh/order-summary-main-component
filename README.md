@@ -1,33 +1,6 @@
-# Frontend Mentor - Order summary card solution
+# Order summary card
 
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-
-## Overview
-
-### The challenge
-
-Users should be able to:
-
-- See hover states for interactive elements
-
-### Screenshot
-
-![](/images/output-screenshot.png)
+![](output-screenshot.png)
 
 
 ### Links
@@ -35,7 +8,6 @@ Users should be able to:
 - [Solution](https://github.com/uday03meh/order-summary-main-component)
 - [Live Site](https://uday03meh-order-summary-card.netlify.app/)
 
-## My process:
 
 ### Built with
 
@@ -43,26 +15,12 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 
-<!-- 
+
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-``` -->
+- inheritance in CSS
+- Responsive Web Design
+- Active States in CSS
 
 ## Author
 
